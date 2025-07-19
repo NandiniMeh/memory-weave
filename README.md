@@ -47,8 +47,7 @@ npm install
 touch .env
 ```
 
-### Add this to .env
-### (replace with your real OpenRouter API key)
+### Add this to .env (replace with your real OpenRouter API key)
 ```
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```
