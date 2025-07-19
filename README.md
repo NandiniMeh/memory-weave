@@ -28,35 +28,43 @@
 ```bash
 git clone https://github.com/NandiniMeh/memory-weave.git
 cd memory-weave
+```
 
 ### 📦 Backend Setup (/backend)
-
+```
 cd backend
 npm install
+```
 
-# Create a .env file
+### Create a .env file
+```
 touch .env
+```
 
-# Add this to .env
-# (replace with your real OpenRouter API key)
+### Add this to .env
+### (replace with your real OpenRouter API key)
+```
 OPENROUTER_API_KEY=your_openrouter_api_key_here
+```
 
-# Start backend server
+### Start backend server
+```
 node index.js
+```
 
-# Backend runs at:
-# http://localhost:5000
+### Backend runs at:
+### http://localhost:5000
 
 ---
 
 ### 🎨 Frontend Setup (/frontend)
-
+```
 cd ../frontend
 npm install
 npm start
-
-# Frontend runs at:
-# http://localhost:3000
+```
+### Frontend runs at:
+### http://localhost:3000
 
 ---
 
