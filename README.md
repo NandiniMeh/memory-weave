@@ -1,7 +1,6 @@
 # 🧠 Memory Weave
 
-**Memory Weave** is a dreamy AI-powered web app that reconstructs vivid, emotionally rich memories from fragmented thoughts.  
-It blends natural language generation with an animated, immersive frontend to let you experience forgotten or fictional moments as if they truly happened.
+**Memory Weave** is a web app that uses AI to generate lucid, emotion-laden memories from random snippets of thought. It combines natural language generation with an animated, cinematic frontend to make it feel like you really lived that forgotten (or fictional) moment.
 
 ---
 
@@ -63,9 +62,8 @@ npm start
 
 ## 🧠 Inspiration
 
-*What if you could feed fragments of your life to an AI and it stitched them into a memory more vivid than reality?*
-Memory Weave was born from the intersection of emotion, memory, and machine imagination —
-an exploration of how language can reweave what time has unraveled.
+*What if you could feed snippets of your life to an AI that stitched together a memory more vivid than real life?*
+Memory Weave started at the crossroads of emotion, memory and machine imagination — An examination of language's potential to reconnect what time has separated.
 
 ## ✨ Credits
 
