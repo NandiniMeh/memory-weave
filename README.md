@@ -1,5 +1,11 @@
 # 🧠 Memory Weave
 
+
+
+https://github.com/user-attachments/assets/989683cb-ddae-48e0-97a9-0e25ee26d0b4
+
+
+
 **Memory Weave** is a web app that uses AI to generate lucid, emotion-laden memories from random snippets of thought. It combines natural language generation with an animated, cinematic frontend to make it feel like you really lived that forgotten (or fictional) moment.
 
 ---
