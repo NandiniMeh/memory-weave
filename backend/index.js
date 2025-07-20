@@ -12,7 +12,6 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.post("/generate-memory", async (req, res) => {
-  // ✅ FIX: include pov and style
   const { fragments, tone, pov, style } = req.body;
 
   const prompt = `
@@ -53,6 +52,7 @@ Write a vivid and coherent memory below:
     );
 
     const data = await response.json();
+    console.log("🔍 Raw API response from OpenRouter:", data);
     const reply =
       data.choices?.[0]?.message?.content || "⚠️ Failed to generate memory.";
     res.json({ memory: reply });
